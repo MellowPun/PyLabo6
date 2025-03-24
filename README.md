@@ -35,3 +35,5 @@ Tip: pingen in Python? https://www.delftstack.com/howto/python/python-ping/
 Optioneel: voeg de mogelijkheid tot meerdere checks toe aan je toepassing.
 Bvb: het checken van een web pagina (hiervoor kan je gebruik maken van de
 requests library). Je mag hier zo ver gaan als je zelf wil.
+
+we will rock you
